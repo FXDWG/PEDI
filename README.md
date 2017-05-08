@@ -1,0 +1,2 @@
+# PEDI
+Python Django EDI
